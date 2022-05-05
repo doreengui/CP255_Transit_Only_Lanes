@@ -13,8 +13,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 ## Visualization Results
 
-![image](https://user-images.githubusercontent.com/98350411/167003983-5df2f6d4-e180-4262-a138-7562282b0e6d.png)
-
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
 
