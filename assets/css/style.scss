@@ -82,6 +82,9 @@ a {
 a:hover {
     color: #e06666f0 !important;
 }
+small a:hover{
+    color: #a9a9a9 !important;
+}
 .markdown-body h1 {
     font-size: 28px;
     color: #e06666f0;
@@ -98,7 +101,7 @@ footer .owner {
     color: #d6d6d6;
 }
 footer .owner .avatar {
-    background-color: #808080;
+    background-color: #a9a9a9;
     display: block;
     margin: -19px 10px 0 0;
     width: 60px;
