@@ -91,7 +91,7 @@ small a:hover{
 }
 .markdown-body h2 {
     font-size: 24px;
-    color: #808080;
+    color: black;
 }
 footer .owner {
     background: #a9a9a9;
@@ -106,4 +106,25 @@ footer .owner .avatar {
     margin: -19px 10px 0 0;
     width: 60px;
     float: left;
+}
+.markdown-body a{
+    color: #e06666f0 !important;
+}
+.markdown-bodya:hover {
+    color: #a9a9a9 !important;
+}
+.markdown-body tbody {
+    border-top: none;   
+    border-bottom: none;
+    background-color: #e06666f0;
+}
+.markdown-body td {
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 5px;
+        padding-left: 5px;
+}
+td {
+    padding: 0;
+    color: white;
 }
