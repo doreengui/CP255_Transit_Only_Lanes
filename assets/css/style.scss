@@ -3,8 +3,104 @@
 
 @import "{{ site.theme }}";
 body {
-    background: #cf9b85;
+    background: #e06666f0;
 }
 #main {
     background-color: #E5E4E2;
+}
+#container {
+    border: 1px solid #e5e4e2;
+    background: #e5e4e2;
+    box-shadow: 0 0 5px #e5e4e2;
+}
+p.tagline {
+    padding: 20px 20px 0;
+    color: #808080;
+    font-size: 17px;
+}
+.download-bar {
+    background: #A9A9A9;
+    border: 5px solid #A9A9A9;
+    padding: 10px;
+    margin: 0 -35px 20px;
+    position: relative;
+}
+.download-bar .blc {
+    border: 10px solid #a9a9a9;
+        border-top-color: rgb(169, 169, 169);
+        border-right-color: rgb(169, 169, 169);
+        border-bottom-color: rgb(169, 169, 169);
+        border-left-color: rgb(169, 169, 169);
+    border-color: transparent transparent #a9a9a9;
+    width: 0;
+    height: 0;
+    display: block;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.download-bar .trc {
+    border: 10px solid #a9a9a9;
+        border-top-color: rgb(169, 169, 169);
+        border-right-color: rgb(169, 169, 169);
+        border-bottom-color: rgb(169, 169, 169);
+        border-left-color: rgb(169, 169, 169);
+    border-color: #a9a9a9 transparent transparent;
+    width: 0;
+    height: 0;
+    display: block;
+    position: absolute;
+    top: -15px;
+    right: 0;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.current-section {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 693px;
+    margin-left: -352px;
+    background: #e06666;
+    border: 5px solid #E5E4E2;
+    color: white;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity ease-in-out 0.3s;
+    -webkit-transition: opacity ease-in-out 0.3s;
+}
+a {
+    color: white;
+    text-decoration: none;
+    transition: opacity ease-in-out 0.3s;
+    -webkit-transition: opacity ease-in-out 0.3s;
+}
+a:hover {
+    color: #e06666f0 !important;
+}
+.markdown-body h1 {
+    font-size: 28px;
+    color: #e06666f0;
+}
+.markdown-body h2 {
+    font-size: 24px;
+    color: #808080;
+}
+footer .owner {
+    background: #a9a9a9;
+    border: 5px solid #a9a9a9;
+    padding: 5px 15px;
+    margin: -67px -10px 35px;
+    color: #d6d6d6;
+}
+footer .owner .avatar {
+    background-color: #808080;
+    display: block;
+    margin: -19px 10px 0 0;
+    width: 60px;
+    float: left;
 }
