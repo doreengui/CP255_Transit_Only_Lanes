@@ -134,13 +134,13 @@ For the on-time performance change, we searched the on-time performance data sin
 
 Figure 8 shows how on-time performance changed during the period of 2004 to 2010. It demonstrates clearly that most of the routes had worse performance, especially K and L. As for the total performance, all routes experienced  strong fluctuations.
 
-| ![Figure 8. Route-based on-time performance from 2004-2010](./img/route_based_on_time_rate.png) | 
+| ![image](https://user-images.githubusercontent.com/98350411/167518737-2fedde5b-9535-46b8-850f-1533f4a6b2b4.png) |  
 |:--:| 
 | Figure 8. Route-based on-time performance from 2004-2010 | 
 
 We chose some critical time points to show the results. The plots below show their performance in some specific years. At the beginning of the research period (2006), according to Figure 9, the majority of the buses had good performance, even on the most congested corridors with the highest demands. 
 
-| ![Figure 9. On-time performance in 2006, 2016 and 2019](./img/on_time_performance.png) | 
+| ![image](https://user-images.githubusercontent.com/98350411/167519064-5aac22dd-4a7e-4d82-b9d7-4d2853e7ac28.png) |
 |:--:| 
 | Figure 9. On-time performance in 2006, 2016 and 2019 | 
 
@@ -148,7 +148,7 @@ Figure 9 also shows their performance in 2016. There were obvious differences si
 
 According to the on-time performance in 2019, the on-time performance recovered slightly from 2016. Those routes having under 0.45 on time rate had grown to around 0.5. When spatially joined with transit only lanes (gray lines), none of the plots shows a significant relationship between transit lanes and on-time performance.
 
-| ![Figure 10. Change in on-time performance from 2006 to 2010, from 2010 to 2016, and from 2016 to 2019 (from left to right)](./img/change_in_on_time_performance.png) | 
+| ![image](https://user-images.githubusercontent.com/98350411/167519032-15e553da-9470-4e6e-b4d5-26507dbb098a.png)| 
 |:--:| 
 | Figure 10. Change in on-time performance from 2006 to 2010, from 2010 to 2016, and from 2016 to 2019 (from left to right) | 
 
@@ -163,13 +163,13 @@ The third plot from Figure 10 shows the change of on-time performance from 2016 
 
 From the results above, we know that the on-time performance deteriorated in general, but we want to study further whether the decrease in performance affected the ridership of these lines. The pictures below demonstrate whether there is correlation between decreasing performance and increasing ridership.
 
-| ![Figure 11. On time performance with ridership in 2006, 2016 and 2019(from left to right)](./img/performance_and_ridership.png) | 
+| ![image](https://user-images.githubusercontent.com/98350411/167518962-ca67fe8f-8ad1-4cab-af63-61465a848ac7.png) | 
 |:--:| 
 | Figure 11. On time performance with ridership in 2006, 2016 and 2019(from left to right) | 
 
 These graphs show the ridership and on-time performance in different years. The linewidth reflects the ridership on an average day. Different from our a-priori, some segments with relatively low reliability had the highest ridership. The reason might be that these segments with highest travel demands are located at the busiest and most congested areas, so it is difficult for Muni buses to keep with the schedule. The result suggests there is no significant correlation between on-time performance and ridership.
 
-| ![Figure 12. Comparison of On time performance and ridership changes from 2006 to 2010, from 2010 to 2016, and from 2016 to 2019 (from left to right)](./img/change_in_performance_and_ridership.png) | 
+| ![image](https://user-images.githubusercontent.com/98350411/167518998-71dc496d-9ddd-451b-a0c9-6b3290e8aad3.png) | 
 |:--:| 
 | Figure 12. Comparison of On time performance and ridership changes from 2006 to 2010, from 2010 to 2016, and from 2016 to 2019 (from left to right) | 
 
